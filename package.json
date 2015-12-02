@@ -1,0 +1,23 @@
+{
+  "name": "skip-webpack-plugin",
+  "version": "0.1.1",
+  "description": "A plugin to skip another plugin and print a log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiyinyiyong/skip-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "jiyinyiyong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiyinyiyong/skip-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/jiyinyiyong/skip-webpack-plugin#readme"
+}
